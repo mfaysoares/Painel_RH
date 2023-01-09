@@ -17,3 +17,5 @@ Nesse projeto, foi elaborado um Painel de Indicadores ao setor de Recursos Human
 
  - O arquivo rh.pbix contém o dashboard elaborado;
  - No arquivo dataset-rh.xlsx contém todo o database de análise.
+
+![](https://github.com/mfaysoares/Ecommerce_PBI/blob/main/ecommerce_pbi.gif)
